@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="./docs/screenshots/zeroai-1.png" alt="Chatbot desktop interface - screen 1" width="90%">
+  <img src="./screenshots/zeroai-1.png" alt="Chatbot desktop interface - screen 1" width="90%">
   <br><br>
-  <img src="./docs/screenshots/zeroai-2.png" alt="Chatbot desktop interface - screen 2" width="90%">
+  <img src="./screenshots/zeroai-2.png" alt="Chatbot desktop interface - screen 2" width="90%">
 </p>
 
 <h2 id="tech">💻 Technologies</h2>
