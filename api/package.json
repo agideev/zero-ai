@@ -1,0 +1,31 @@
+{
+  "name": "zero-ai-api",
+  "version": "1.0.0",
+  "description": "Sistema backend de IA com Node.js, MVC e Groq API",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "tsx src/server.ts",
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "groq",
+    "ai",
+    "mvc"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "groq-sdk": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15"
+  }
+}
